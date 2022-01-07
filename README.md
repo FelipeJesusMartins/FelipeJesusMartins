@@ -1,8 +1,8 @@
 <h2 align="center">Olá, eu sou o Felipe Martins, programador e futuro criador de conteúdo !</h2>
 <div align="center">
   <a href="https://github.com/FelipeJesusMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeJesusMartins&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJesusMartins&layout=compact&langs_count=8&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeJesusMartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Felipe%20de%20Jesus%20Martins%20%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJesusMartins&layout=compact&langs_count=8&theme=cobalt&locale=pt-br&custom_title=Linguagens%20mais%20usadas%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
 </div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Jesus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
