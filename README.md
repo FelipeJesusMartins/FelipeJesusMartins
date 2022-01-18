@@ -1,14 +1,16 @@
-<h2 align="center">Olá, eu sou o Felipe Martins, programador e futuro criador de conteúdo !</h2>
 <div align="center">
+  <img height="180em" src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=100&lines=Ol%C3%A1%2C+me+chamo+Felipe+Martins;Sou+programador+e+futuro+criador+de+conte%C3%BAdo+!;E+este+%C3%A9+um+resumo+r%C3%A1pido+do+que+fa%C3%A7o"/>
   <a href="https://github.com/FelipeJesusMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeJesusMartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Felipe%20de%20Jesus%20Martins%20%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJesusMartins&layout=compact&langs_count=8&theme=cobalt&locale=pt-br&custom_title=Linguagens%20mais%20usadas%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
+    <img width="790rem" src="http://github-readme-streak-stats.herokuapp.com/?user=FelipeJesusMartins&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=193549&stroke=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF"/>
+    
 </div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Jesus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Jesus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Jesus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <!--<img align="center" alt="Jesus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
+    <img align="center" alt="Jesus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Jesus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Jesus-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
     <img align="center" alt="Jesus-DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -35,18 +37,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<!--
-**FelipeJesusMartins/FelipeJesusMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Atualmente estou escutando:</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=squilo1337&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</div>
