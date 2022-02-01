@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="170em" src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=100&lines=Ol%C3%A1%2C+me+chamo+Felipe+Martins;Sou+programador+e+futuro+criador+de+conte%C3%BAdo+!;E+este+%C3%A9+um+resumo+r%C3%A1pido+do+que+fa%C3%A7o"/>
+  <!--<img height="180em" src="https://readme-typing-svg.herokuapp.com?color=%230C8CFF&size=22&center=true&multiline=true&width=570&height=100&lines=Ol%C3%A1%2C+me+chamo+Felipe+Martins;Sou+programador+e+futuro+criador+de+conte%C3%BAdo+!;E+este+%C3%A9+um+resumo+r%C3%A1pido+do+que+fa%C3%A7o"/> -->
   <a href="https://github.com/FelipeJesusMartins">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeJesusMartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Felipe%20de%20Jesus%20Martins%20%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJesusMartins&layout=compact&langs_count=8&theme=cobalt&locale=pt-br&custom_title=Linguagens%20mais%20usadas%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeJesusMartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Felipe%20de%20Jesus%20Martins%20%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJesusMartins&layout=compact&langs_count=8&theme=cobalt&locale=pt-br&custom_title=Linguagens%20mais%20usadas%20%E2%AD%90&title_color=FFFFFF&text_color=FFFFFF"/>
     <img width="790rem" src="http://github-readme-streak-stats.herokuapp.com/?user=FelipeJesusMartins&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=193549&stroke=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF"/>
     
 </div>
