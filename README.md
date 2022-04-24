@@ -37,7 +37,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div align="center">
-  <h3>Atualmente estou escutando:</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=squilo1337&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</div>
